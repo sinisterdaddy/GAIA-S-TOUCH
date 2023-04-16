@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246499063529",
+    "project_id": "gaias-b5507",
+    "storage_bucket": "gaias-b5507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246499063529:android:2e9e24ca0c25429c662278",
+        "android_client_info": {
+          "package_name": "com.example.gdsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246499063529-860pte57vvrulr99dcrm5cl91mvodi9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL3iKpoRKUJJPXR54lCnYmF5nDlEs0dqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246499063529-860pte57vvrulr99dcrm5cl91mvodi9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
